@@ -29,10 +29,16 @@ The estimation of the accuracy is based on the 10-fold cross validation method.
 The project is based on the famous iris flowers dataset. The dataset contains 150 observations of iris flowers. There are four columns of measurements of the flowers in centimeters. This columns are the variables (features): SepalLength; SepalWidth; PetalLength; PetalWidth.
 
 petal_sepal             
-
 :-------------------------:
+![](http://arqmain.net/iris/petal_sepal.png)
 
-MLearning_Classification_Comparison
+The fifth column is the species of the flower observed. All observed flowers belong to one of three species: Iris-setosa; Iris-versicolor; Iris-virginica.
+
+iris_setosa             |  iris_versicolor	       |  iris_virginica
+:-------------------------:|:-------------------------:|:-------------------------:
+![](http://arqmain.net/iris/iris_setosa.png)  |  ![](http://arqmain.net/iris/iris_versicolor.png) |  ![](http://arqmain.net/iris/iris_virginica.png)
+
+
 
 
 ### Table of Contents   (  [  Link to Python codes notebook ](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/MLearning_Classification_Comparison/MLearning_Classification_Comparison_Python.ipynb))
