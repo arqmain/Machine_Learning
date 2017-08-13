@@ -32,14 +32,15 @@ petal_sepal
 :-------------------------:
 ![](http://arqmain.net/iris/petal_sepal.png)
 
+
 The fifth column is the species of the flower observed. All observed flowers belong to one of three species: Iris-setosa; Iris-versicolor; Iris-virginica.
+
 
 iris_setosa             |  iris_versicolor	       |  iris_virginica
 :-------------------------:|:-------------------------:|:-------------------------:
 ![](http://arqmain.net/iris/iris_setosa.png)  |  ![](http://arqmain.net/iris/iris_versicolor.png) |  ![](http://arqmain.net/iris/iris_virginica.png)
 
-
-
+<br>
 
 ### Table of Contents   (  [  Link to Python codes notebook ](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/MLearning_Classification_Comparison/MLearning_Classification_Comparison_Python.ipynb))
 
@@ -78,4 +79,3 @@ iris_setosa             |  iris_versicolor	       |  iris_virginica
 >Data Science, Data Analysis, Visualizations and Applied Statistics / July 2017<br
 >Email: <arqmain2010@gmail.com> <br>
 >Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
-
