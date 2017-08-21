@@ -3,7 +3,7 @@
 
 * [ MLearning_Classification_Comparison_R_Caret ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Comparison_R_Caret)
 
-* [ MLearning_Classification_Comparison_R_MLR (Not yet!) ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Comparison_R_MLR)
+* [ MLearning_Classification_Comparison_R_MLR (Not ready yet!) ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Comparison_R_MLR)
 
 
 
