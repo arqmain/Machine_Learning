@@ -1,9 +1,9 @@
-# ![](http://arqmain.net/RProject_Python_Logos/Learning.gif) Machine Learning 
+# ![](http://arqmain.net/RProject_Python_Logos/RLogo_05.png) Machine Learning 
 <br>
 
-* [ R_MLearning ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning)
+* [ MLearning_Classification_Comparison_R_Caret ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Comparison_R_Caret)
 
-* [ Python_MLearning ](https://github.com/arqmain/Machine_Learning/tree/master/Python_MLearning)
+* [ MLearning_Classification_Comparison_R_MLR (Not yet!) ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Comparison_R_MLR)
 
 
 
