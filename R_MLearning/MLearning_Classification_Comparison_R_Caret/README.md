@@ -77,7 +77,7 @@ iris_setosa             |  iris_versicolor	       |  iris_virginica
 <hr>
 
 ><i>Hector Alvaro Rojas<br>
->Data Science, Data Analysis, Visualizations and Applied Statistics / July 2017<br
+>Data Science, Data Analysis, Visualizations and Applied Statistics / July 2017<br>
 >Email: <arqmain2010@gmail.com> <br>
 >Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
 
