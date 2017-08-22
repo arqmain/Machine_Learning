@@ -46,7 +46,7 @@ iris_setosa             |  iris_versicolor	       |  iris_virginica
 
 #### I Introduction
 
-#### II Import Python libraries
+#### II Import R libraries
 
 #### III Loading and Checking the Data
 
@@ -69,7 +69,8 @@ iris_setosa             |  iris_versicolor	       |  iris_virginica
 ###### 7.2 Build Models
 
 ###### 7.3 Select Best Model
-###### 7.4 Make Prediction
+
+###### 7.4 Make Predictions
 
 #### VIII Conclusion
 
