@@ -32,9 +32,7 @@ petal_sepal
 :-------------------------:
 ![](http://arqmain.net/iris/petal_sepal.png)
 
-
 The fifth column is the species of the flower observed. All observed flowers belong to one of three species: Iris-setosa; Iris-versicolor; Iris-virginica.
-
 
 iris_setosa             |  iris_versicolor	       |  iris_virginica
 :-------------------------:|:-------------------------:|:-------------------------:
