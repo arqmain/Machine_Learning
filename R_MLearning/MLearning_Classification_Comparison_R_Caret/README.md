@@ -1,4 +1,4 @@
-# Machine Learning: A comparison of supervised learning algorithms applied to the classification problem with R-project
+# Machine Learning: A comparison of supervised learning algorithms applied to the classification problem with caret R-project library
 
 <br>
 
