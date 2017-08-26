@@ -1,4 +1,4 @@
-# Machine Learning: A comparison of supervised learning algorithms applied to the classification problem with Python
+# Machine Learning: A comparison of supervised learning algorithms applied to the classification problem with Scikit-Learn Python library
 
 <br>
 
