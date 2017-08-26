@@ -2,7 +2,6 @@
 
 <br>
 
-
 This project presents an application of several supervised learning algorithms to the classification problem, evaluating and selecting the best of them according to a precision measurement (accuracy_score) and the scikit-learn Python library.
 
 
@@ -42,7 +41,7 @@ iris_setosa             |  iris_versicolor	       |  iris_virginica
 
 <br>
 
-### Table of Contents   (  [  Link to Python codes notebook ](http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/Python_MLearning/MLearning_Classification_Comparison/MLearning_Classification_Comparison_Python.ipynb))
+### Table of Contents   (  [  Link to Python codes notebook ](http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/Python_MLearning/MLearning_Classification_Comparison/MLearning_Classification_Comparison_Python_Scikit-Learn.ipynb))
 
 #### I Introduction
 
