@@ -1,4 +1,4 @@
-#MACHINE LEARNING: A general way to run and compare most common supervised learning algorithms with R-project
+# MACHINE LEARNING: A general way to run and compare most common supervised learning algorithms with R-project
 
 <br>
 
