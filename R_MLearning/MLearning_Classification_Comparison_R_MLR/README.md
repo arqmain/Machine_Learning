@@ -1,4 +1,4 @@
-# MACHINE LEARNING: A general way to run and compare most common supervised learning algorithms with R-project
+# MACHINE LEARNING: A comparison of supervised learning algorithms applied to the classification problem in R with MLR Package
 
 <br>
 
@@ -66,9 +66,7 @@ The performance metrics are evaluated by using the "train/test split" method.  S
 
 The dataset used here is unbalanced in a proportion of 70.02% for "Good Clients" and 29.98% for "Bad clients". I use stratified sampling to get the train and test dataset, then I secure the original proportional representation for the categories of the response variable.
 
-<br>
-
-### Table of Contents   (  [  Link to R codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/Compare_Models2_RProject/Compare_Models2_RProject.ipynb))
+### Table of Contents   (  [  Link to R codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Comparison_R_MLR/Project3_RProject_MLR_FINAL.ipynb))
 
 
 #### I Introduction
