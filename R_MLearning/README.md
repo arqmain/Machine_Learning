@@ -5,5 +5,5 @@
 
 * [ MACHINE LEARNING: A general way to run and compare most common supervised learning algorithms with R-project ](https://github.com/arqmain/Machine_Learning/blob/master/R_MLearning/Compare_Models2_RProject)
 
-* [ Machine Learning: A comparison of supervised learning algorithms applied to the classification problem with MLR R-project library (Not ready yet!) ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Comparison_R_MLR)
+* [ Machine Learning: A comparison of supervised learning algorithms applied to the classification problem with MLR R-project library ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Comparison_R_MLR)
 
