@@ -83,7 +83,7 @@ The performance metrics are evaluated by using the "K fold cross validation" met
 
 The dataset used here is unbalanced in a proportion of 70.02% for "Good Clients" and 29.98% for "Bad clients". I use stratified sampling to get the train and test dataset, then I secure the original proportional representation for the categories of the response variable.
 
-### Table of Contents   (  [  Link to R codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Comparison_R_MLR/Project3_RProject_MLR_CVKFold.ipynb))
+### Table of Contents   (  [  Link to R codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Comparison_R_MLR_KFold/Project3_RProject_MLR_CVKFold.ipynb))
 
 
 #### I Introduction
