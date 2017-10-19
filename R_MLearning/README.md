@@ -8,3 +8,5 @@
 * [ Machine Learning: A comparison of supervised learning algorithms applied to the classification problem with MLR R-project library ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Comparison_R_MLR)
 
 * [ MACHINE LEARNING: A comparison of supervised learning algorithms applied to the classification problem in R with MLR Package and K fold cross validation ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Comparison_R_MLR_KFold)
+
+* [ MACHINE LEARNING: Portugal Wine under Two Class approach for red and white classification using R and K fold cross-validation ](https://github.com/arqmain/Machine_Learning/tree/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold)
