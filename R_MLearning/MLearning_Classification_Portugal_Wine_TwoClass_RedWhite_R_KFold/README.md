@@ -25,7 +25,7 @@ The dataset used here is unbalanced in a proportion of 75.4% for "White wine" an
 The ROC metric used to select the models are the one usually used for this kind of unbalanced dataset.  You can get more information about it in this publication by [ Shir Meir Lador: What metrics should be used for evaluating a model on an imbalanced data set? ](https://medium.com/towards-data-science/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
 
 
-### Table of Contents   (  [  Link to R codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Comparison_R_MLR_KFold/Project3_RProject_MLR_CVKFold.ipynb))
+### Table of Contents
 
 
 #### [  Module 1: Data Preprocessing and Exploratory Data Analysis (EDA) ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Comparison_R_MLR_KFold/Project3_RProject_MLR_CVKFold.ipynb)
