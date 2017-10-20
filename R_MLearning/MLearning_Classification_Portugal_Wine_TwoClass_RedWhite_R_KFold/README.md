@@ -34,7 +34,7 @@ The ROC metric used to select the models are the one usually used for this kind 
 
 #### [ Module 3: Solving project with original dataset dff ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_DatasetDFF.ipynb)
 
-#### #### [ Module 4: Solving project with original dataset dfffull ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_DatasetDFFFULL.ipynb)
+#### [ Module 4: Solving project with original dataset dfffull ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_DatasetDFFFULL.ipynb)
 
 #### [ Module 5: Conclusion ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_CONCLUSIONS.ipynb)
 <hr>
