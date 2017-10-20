@@ -28,14 +28,15 @@ The ROC metric used to select the models are the one usually used for this kind 
 ### Table of Contents
 
 
-#### [  Module 1: Data Preprocessing and Exploratory Data Analysis (EDA) ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_EDA.ipynb)
+#### [ Module 1: Data Preprocessing and Exploratory Data Analysis (EDA) ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_EDA.ipynb)
 
-#### [  Module 2: Solving project with original dataset df ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_DatasetDF.ipynb)
+#### [ Module 2: Solving project with original dataset df ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_DatasetDF.ipynb)
 
-#### [  Module 3: Solving project with original dataset dff ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_DatasetDFF.ipynb)
+#### [ Module 3: Solving project with original dataset dff ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_DatasetDFF.ipynb)
 
-#### Module 4: Solving project with original dataset dfffull
+#### #### [ Module 4: Solving project with original dataset dfffull ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_DatasetDFFFULL.ipynb)
 
+#### [ Module 5: Conclusion ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_Portugal_Wine_TwoClass_RedWhite_R_KFold/Project4_Portugal_WINE_TwoClass_CONCLUSIONS.ipynb)
 <hr>
 
 ><i>Hector Alvaro Rojas<br>
