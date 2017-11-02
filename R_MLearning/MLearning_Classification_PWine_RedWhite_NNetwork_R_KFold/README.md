@@ -19,6 +19,7 @@ The ROC metric is a metric that can be used to evaluate models based on unbalanc
 
 Finally, whenever I work in some modeling project I try always to remember what the late brilliant George Box one time stated: <i><b>" ... remember that all models are wrong; the practical question is how wrong do they have to be to not be useful?".</b></i>
 <br>
+<hr>
 ### Table of Contents   (  [  Link to R codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_PWine_RedWhite_NNetwork_R_KFold/Project7_Portugal_WINE_TwoClass_RedWhite_NNetwork.ipynb))
 
 #### I Introduction
