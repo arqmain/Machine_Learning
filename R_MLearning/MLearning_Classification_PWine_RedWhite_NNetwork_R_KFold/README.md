@@ -29,8 +29,6 @@ Finally, whenever I work in some modeling project I try always to remember what 
 
 ##### 22 Exploratory Data Analysis (EDA) and Data Preprocessing
 
-##### How about missing values?
-
 #### III Getting train and test datasets
 
 #### IV Neural Network
