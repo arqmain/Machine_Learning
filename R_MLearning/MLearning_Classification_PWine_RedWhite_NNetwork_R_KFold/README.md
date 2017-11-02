@@ -4,9 +4,9 @@
 
 This project develops neural Network algorithm of machine learning to classify wine "white" or "red" according to 12 variables that characterize the wine subject to classification. The model performance was evaluated using R, K fold cross-validation, and the ROC metric.
 
-<center>
-[](http://arqmain.net/iris/nnet-RedWhite-plot.png)
-</center>
+
+![](http://arqmain.net/iris/nnet-RedWhite-plot.png)
+
 
 
 I used the wine data set from the UCI Machine Learning data repository. The data can be found here [ http://archive.ics.uci.edu/ml/datasets/Wine+Quality ]. 
