@@ -1,4 +1,4 @@
-# MACHINE LEARNING: Portugal Wine. Two Class approach for Red and White classification with with Neural Network using R
+# MACHINE LEARNING: Portugal Wine. Two Class approach for Red and White classification with Neural Network using R
 
 <br>
 
