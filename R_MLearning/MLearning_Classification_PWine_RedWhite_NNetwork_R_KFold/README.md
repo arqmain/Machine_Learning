@@ -2,36 +2,17 @@
 
 <br>
 
+This project develops neural Network algorithm of machine learning to classify wine "white" or "red" according to 12 variables that characterize the wine subject to classification. The model performance was evaluated using R, K fold cross-validation, and the ROC metric.
 
-This project presents a general way to run and compare several supervised learning algorithms applied to the classification problem, evaluating and selecting the best of them according to their performance by using the R library MLR and seven usual metrics: Acc, Kappa, F1, AUC, Sensitivity, and Specificity.
+I used the wine data set from the UCI Machine Learning data repository. The data can be found here [ http://archive.ics.uci.edu/ml/datasets/Wine+Quality ]. 
 
-The entire structure of MLR library relies on this premise:
+The original data is separated into white and red datasets. I combined them and created one additional variable: "Class" indicating "white" or "red" wine. Our original dataset is an imbalance one. There are 6497 registers but only 1599 (24.6%) are of the red class of wine. So, I decided using the ROC metric to compare the model's performance.
 
-<i>- Create a Task</i>.<br> 
-<i>- Make a Learner</i>. <br> 
-<i>- Train Them</i>.<br> 
+I used "dfffull" dataset that considers all registers but replaces outliers by a "threshold" value which is generated for each variable using the upper limit of its Box-plot.
 
-Creating a task means loading data in the package. Making a learner means choosing an algorithm ( learner)
-which learns from task (or data). Finally, train them. Here you can learn more about MLR library [  Machine Learning in R: mlr Tutorial  ](https://mlr-org.github.io/mlr-tutorial/devel/html/).
+The ROC metric is a metric that can be used to evaluate models based on unbalanced datasets. You can get more information about it in this publication by [ Shir Meir Lador: What metrics should be used for evaluating a model on an imbalanced data set? ](https://medium.com/towards-data-science/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
 
-The supervised learning algorithms to be considered here are:
-
-Logistic Regression (LR)
-Linear Discriminant Analysis (LDA)
-K-Nearest Neighbors (KNN)
-Classification and Regression Trees (CART)
-Random Forest Classifier (RF)
-Gaussian Naive Bayes (NB)
-Support Vector Machines (SVM)
-
-
-The dataset contains 5000 registers of clients who asked for a loan. There are six columns of measurements (fields) of the clients. These columns are the variables (features): MontoCredito; IngresoNeto; CoefCreditoAvaluo; MontoCuota; GradoAcademico.
-
-The sixth column is the response variable "Tclient" which has two categories: Bad and Good. The dataset can be gotten from [  here ](http://www.arqmain.net/MLearning/Datasets/Loan2016last.csv).
-
-The performance metrics are evaluated by using the "K fold cross validation" method.  I consider 70% and 30% original dataset splitting for the training and testing datasets respectively. 
-
-The dataset used here is unbalanced in a proportion of 70.02% for "Good Clients" and 29.98% for "Bad clients". I use stratified sampling to get the train and test dataset, then I secure the original proportional representation for the categories of the response variable.
+Finally, whenever I work in some modeling project I try always to remember what the late brilliant George Box one time stated: " ... remember that all models are wrong; the practical question is how wrong do they have to be to not be useful?".
 
 ### Table of Contents   (  [  Link to R codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/R_MLearning/MLearning_Classification_PWine_RedWhite_NNetwork_R_KFold/Project7_Portugal_WINE_TwoClass_RedWhite_NNetwork.ipynb))
 
