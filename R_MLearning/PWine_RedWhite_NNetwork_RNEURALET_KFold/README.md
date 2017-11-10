@@ -7,7 +7,7 @@ This project develops Neural Network algorithm of machine learning to classify t
 Neuralnet is built to train multi-layer perceptrons in the context of regression analyses, i.e. to approximate functional relationships between covariates and response variables.
 
 
-![](http://arqmain.net/iris/nnet-RedWhite-plot.png)
+![](http://arqmain.net/iris/Plot_Neuralnet.png)
 
 
 
