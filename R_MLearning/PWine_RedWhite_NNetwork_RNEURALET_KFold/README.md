@@ -2,7 +2,9 @@
 
 <br>
 
-This project develops neural Network algorithm of machine learning to classify wine "white" or "red" according to 12 variables that characterize the wine subject to classification. The model performance was evaluated using R, K fold cross-validation, and the ROC metric.
+This project develops Neural Network algorithm of machine learning to classify the class of wine -"white" or "red"- according to 12 variables that characterize the wine subject to classification. I use Neuralnet R library.
+
+Neuralnet is built to train multi-layer perceptrons in the context of regression analyses, i.e. to approximate functional relationships between covariates and response variables.
 
 
 ![](http://arqmain.net/iris/nnet-RedWhite-plot.png)
@@ -11,16 +13,13 @@ This project develops neural Network algorithm of machine learning to classify w
 
 I used the wine data set from the UCI Machine Learning data repository. The data can be found here [ http://archive.ics.uci.edu/ml/datasets/Wine+Quality ]. 
 
-The original data is separated into white and red datasets. I combined them and created one additional variable: "Class" indicating "white" or "red" wine. Our original dataset is an imbalance one. There are 6497 registers but only 1599 (24.6%) are of the red class of wine. So, I decided using the ROC metric to compare the model's performance.
+The original data is separated into white and red datasets. I combined them and created one additional variable: "type" indicating "white" or "red" wine. Our original dataset is an imbalance one. There are 6497 registers but only 1599 (24.6%) are of the red class of wine. The model performance was evaluated using R, K fold cross-validation and the metrics Accuracy, Specificity, Recall, Precision, F1.
 
-I used "dfffull" dataset that considers all registers but replaces outliers by a "threshold" value which is generated for each variable using the upper limit of its Box-plot.
+I do not consider two variables that appear in the original base. They could generate a problem of multicollinearity in the process of classification. So, we got rid of them. At the same time, we keep all the register of the original database but replace the upper outliers by its corresponding Threshold value which is generated for each variable using the upper limit of its Box-plot. The application of this rule does not reduce the original data size because it does not eliminate any register. So, the data size is the same as the original dataset (6497).
 
-The ROC metric is a metric that can be used to evaluate models based on unbalanced datasets. You can get more information about it in this publication by [ Shir Meir Lador: What metrics should be used for evaluating a model on an imbalanced data set? ](https://medium.com/towards-data-science/what-metrics-should-we-use-on-imbalanced-data-set-precision-recall-roc-e2e79252aeba)
-
-Finally, whenever I work in some modeling project I try always to remember what the late brilliant George Box one time stated: <i><b>" ... remember that all models are wrong; the practical question is how wrong do they have to be to not be useful?".</b></i>
 <br>
 
-### Table of Contents   (  [  Link to R codes notebook ]( http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/PWine_RedWhite_NNetwork_RNEURALET_KFold/Project9_Portugal_WINE_TwoClass_RedWhite_NNetwork_NEURALNET.ipynb))
+### Table of Contents   (  [  Link to R codes notebook ]( https://github.com/arqmain/Machine_Learning/blob/master/R_MLearning/PWine_RedWhite_NNetwork_RNEURALET_KFold/Project9_Portugal_WINE_TwoClass_RedWhite_NNetwork_NEURALNET.ipynb))
 
 #### I Introduction
 
@@ -36,9 +35,15 @@ Finally, whenever I work in some modeling project I try always to remember what 
 
 ##### 41 Building Machine Learning Model
 
-##### 42 Plotting the Neural Network selected model
+##### 42 Ploting the Neural Network Selected Model
 
 #### V Making predictions
+
+##### 51 Predictions model nn on training dataset
+
+##### 52 Predictions model nn on testing dataset
+
+##### 53 Predictions model nn on new dataset
 
 #### VI Conclusion
 
