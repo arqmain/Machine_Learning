@@ -33,7 +33,7 @@ The models are developing using Caret library and R, meantime its performances a
 
 ##### 42 Multiple Linear Regression (MLR) Model
 
-#### V Model's Comparision
+#### V Model's Comparison
 
 #### VI Conclusion
 
