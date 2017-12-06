@@ -1,15 +1,11 @@
-# MACHINE LEARNING: Portugal Wine. Two Class approach for Red and White classification with Neural Network using R, NEURALNET Library and K fold cross-validation
+# MACHINE LEARNING: Portugal Wine. Two Class approach for Quality classification with XGBoost using R
+
 
 <br>
 
 This project develops Neural Network algorithm of machine learning to classify the class of wine -"white" or "red"- according to 12 variables that characterize the wine subject to classification. I use Neuralnet R library.
 
 Neuralnet is built to train multi-layer perceptrons in the context of regression analyses, i.e. to approximate functional relationships between covariates and response variables.
-
-
-![](http://arqmain.net/iris/Plot_Neuralnet.png)
-
-
 
 I used the wine data set from the UCI Machine Learning data repository. The data can be found here [ http://archive.ics.uci.edu/ml/datasets/Wine+Quality ]. 
 
@@ -19,38 +15,21 @@ I do not consider two variables that appear in the original base. They could gen
 
 <br>
 
-### Table of Contents   (  [  Link to R codes notebook ]( https://github.com/arqmain/Machine_Learning/blob/master/R_MLearning/PWine_RedWhite_NNetwork_RNEURALET_KFold/Project9_Portugal_WINE_TwoClass_RedWhite_NNetwork_NEURALNET.ipynb))
+### Table of Contents 
 
 #### I Introduction
 
-#### II Loading, EDA and Data Preprocessing
+#### II Two Class approach for Quality classification with XGBoost considering the “Train/Test split” method
 
-##### 21 Loading the data
+#### III Two Class approach for Quality classification with XGBoost considering “KFold cross-validation” method
 
-##### 22 Exploratory Data Analysis (EDA) and Data Preprocessing
+#### IV Conclusion
 
-#### III Getting train and test datasets
-
-#### IV Neural Network
-
-##### 41 Building Machine Learning Model
-
-##### 42 Ploting the Neural Network Selected Model
-
-#### V Making predictions
-
-##### 51 Predictions model nn on training dataset
-
-##### 52 Predictions model nn on testing dataset
-
-##### 53 Predictions model nn on new dataset
-
-#### VI Conclusion
 
 
 <hr>
 
 ><i>Hector Alvaro Rojas<br>
->Data Science, Data Analysis, Visualizations and Applied Statistics / November 09, 2017<br>
+>Data Science, Data Analysis, Visualizations and Applied Statistics / December 06, 2017<br>
 >Email: <arqmain2010@gmail.com> <br>
 >Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
