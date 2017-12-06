@@ -22,3 +22,6 @@
 * [ Portugal Wine. Two Class approach for Red and White classification with Neural Network using R, NEURALNET Library and K fold cross-validation ](https://github.com/arqmain/Machine_Learning/blob/master/R_MLearning/PWine_RedWhite_NNetwork_RNEURALET_KFold/README.md)
 
 * [ Portugal Wine. Multiple Linear Regression to model Quality using R and K fold cross-validation ](https://github.com/arqmain/Machine_Learning/blob/master/R_MLearning/PWine_Quality_MLR_KFold/README.md)
+
+* [ Portugal Wine. Two Class approach for Quality classification with XGBoost using R
+ ](https://github.com/arqmain/Machine_Learning/blob/master/R_MLearning/PWine_Quality_XGBoost_Classification/README.md)
