@@ -17,13 +17,13 @@ I do not consider two variables that appear in the original base. They could gen
 
 ### Table of Contents 
 
-#### I Introduction
+#### [ I Introduction ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/XGBoost/PWine_Classification/XGBoost_Introduction_Logistic.html)
 
-#### II Two Class approach for Quality classification with XGBoost considering the “Train/Test split” method
+#### [ II Two Class approach for Quality classification with XGBoost considering the “Train/Test split” method ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/XGBoost/PWine_Classification/XGBoost_TrainTest_Logistic.html)
 
-#### III Two Class approach for Quality classification with XGBoost considering “KFold cross-validation” method
+#### [ III Two Class approach for Quality classification with XGBoost considering “KFold cross-validation” method ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/XGBoost/PWine_Classification/XGBoost_KFold_Logistic.html)
 
-#### IV Conclusion
+#### [ IV Conclusion ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/XGBoost/PWine_Classification/XGBoost_Conclusion_Logistic.html)
 
 
 
