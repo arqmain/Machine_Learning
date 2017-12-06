@@ -3,15 +3,15 @@
 
 <br>
 
-This project develops Neural Network algorithm of machine learning to classify the class of wine -"white" or "red"- according to 12 variables that characterize the wine subject to classification. I use Neuralnet R library.
+This project develops the XGBoost algorithm of machine learning to classify the quality of the wine “Good” or “Bad” according to 12 variables that characterize the wine subject to classification.
 
-Neuralnet is built to train multi-layer perceptrons in the context of regression analyses, i.e. to approximate functional relationships between covariates and response variables.
+I use the famous Portugal wine dataset. Two datasets are available for which one dataset is about red wine and have 1599 different varieties and the other is on white wine and have 4898 varieties. I have combined them into one dataset named “wine” and created one additional variable “type” with its categories “white” and “red”. After that, I re-coded the “quality” variable to indicate scores greater than or equal to 6 (denoted as “Good”) or to indicate scores smaller than 6(denoted as “Bad”).
 
 I used the wine data set from the UCI Machine Learning data repository. The data can be found here [ http://archive.ics.uci.edu/ml/datasets/Wine+Quality ]. 
 
-The original data is separated into white and red datasets. I combined them and created one additional variable: "type" indicating "white" or "red" wine. Our original dataset is an imbalance one. There are 6497 registers but only 1599 (24.6%) are of the red class of wine. The model performance was evaluated using R, K fold cross-validation and the metrics Accuracy, Specificity, Recall, Precision, F1.
+The modeling is developing using R, “train/test split” and “K fold cross-validation” methods. I consider 70% and 30% original dataset splitting for the training and testing datasets respectively.
 
-I do not consider two variables that appear in the original base. They could generate a problem of multicollinearity in the process of classification. So, we got rid of them. At the same time, I keep all the register of the original database but replace the upper outliers by its corresponding Threshold value which is generated for each variable using the upper limit of its Box-plot. The application of this rule does not reduce the original data size because it does not eliminate any register. So, the data size is the same as the original dataset (6497).
+XGBoost is a library for developing fast and high-performance gradient boosting tree models. Parallel computation is what makes it this fast. XGBoost is one of the more popular machine learning algorithm these days, and most of its popularity is due to its versatility, scalability, and efficiency. Regardless of the data type (regression or classification), it is well known to provide better solutions than other ML algorithms so far.
 
 <br>
 
