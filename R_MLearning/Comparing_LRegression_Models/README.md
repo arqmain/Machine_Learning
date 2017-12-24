@@ -55,3 +55,9 @@ The fifth column is the species of the flower observed. All observed flowers bel
 [ IV Conclusion ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/CONCLUSION_MLR-NN-GBM-XGBoost_COMPARE.html
 )
 
+<hr>
+
+><i>Hector Alvaro Rojas<br>
+>Data Science, Data Analysis, Visualizations and Applied Statistics / December 24, 2017<br>
+>Email: <arqmain2010@gmail.com> <br>
+>Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
