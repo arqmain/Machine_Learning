@@ -46,6 +46,8 @@ The following table present the variables and its definition.
 
 [ Generalized Boosted Regression (GBM) ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/GBM_MLR-NN-GBM-XGBoost_COMPARE.html)
 
+[ Models Comparison and Final Selection ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/Models-Comparison_MLR-NN-GBM-XGBoost_COMPARE.html)
+
 [ IV Conclusion ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/CONCLUSION_MLR-NN-GBM-XGBoost_COMPARE.html
 )
 
