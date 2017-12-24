@@ -21,20 +21,14 @@ The machine learning algoritms considered are:
 
 The project is based on the famous Boston Housing Prices dataset which is part of R.. The dataset contains 14 predictors, and the response variable is medv. The model performance was evaluated using R, k fold cross-validation, and Rsquared and RMSE metrics.
 
+
+![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/house-for-sale-sign-small.jpg)
+
+
 The following table present the variables and its definition.
 
 
-
-
-
-
-petal_sepal             
-:-------------------------:
-![](http://arqmain.net/iris/petal_sepal.png)
-
-The fifth column is the species of the flower observed. All observed flowers belong to one of three species: Iris-setosa; Iris-versicolor; Iris-virginica.
-
-![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/house-for-sale-sign-small.jpg)
+![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/Boston_Housing_Variables.png)
 
 <br>
 
