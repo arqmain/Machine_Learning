@@ -19,7 +19,7 @@ The machine learning algoritms considered are:
 * Generalized Boosted Regression (GBM)
 
 
-The project is based on the famous Boston Housing Prices dataset which is part of R.. The dataset contains 14 predictors, and the response variable is medv. The model performance was evaluated using R, k fold cross-validation, and Rsquared and RMSE metrics.
+The project is based on the famous Boston Housing Prices dataset which is part of R. The dataset contains 14 predictors, and the response variable is medv. The model performance was evaluated using R, k fold cross-validation, and Rsquared and RMSE metrics.
 
 
 ![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/house-for-sale-sign-small.jpg)
