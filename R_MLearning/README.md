@@ -25,3 +25,6 @@
 
 * [ Portugal Wine. Two Class approach for Quality classification with XGBoost using R
  ](https://github.com/arqmain/Machine_Learning/blob/master/R_MLearning/PWine_Quality_XGBoost_Classification/README.md)
+ 
+ * [ Comparing MLR, NN, GBM and XGBoost regression models with R](https://github.com/arqmain/Machine_Learning/blob/master/R_MLearning/Comparing_LRegression_Models/README.md)
+ 
