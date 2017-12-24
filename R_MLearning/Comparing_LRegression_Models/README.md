@@ -3,40 +3,36 @@
 <br>
 
 
-This project presents an application of several supervised learning algorithms to the classification problem, evaluating and selecting the best of them according to a precision measurement (accuracy_score) and the caret R-project library.
+This project presents an application of several supervised learning algorithms applied to the Multiple Linear Regression problem, evaluating and selecting the best of them according to Rsquared and RMSE metrics measurement and the caret R-project library.
 
 
 The machine learning algoritms considered are:
 
 
 
-* Logistic Regression (LR)
+* Multiple Linear Regression (MLR)
 
-* Linear Discriminant Analysis (LDA)
+* Neural Network (NN)
 
-* K-Nearest Neighbors (KNN)
+* Extreme Gradient Boosting (XGBoost)
 
-* Classification and Regression Trees (CART)
+* Generalized Boosted Regression (GBM)
 
-* Random Forest Classifier (RF)
 
-* Gaussian Naive Bayes (NB)
+The project is based on the famous Boston Housing Prices dataset which is part of R.. The dataset contains 14 predictors, and the response variable is medv. The model performance was evaluated using R, k fold cross-validation, and Rsquared and RMSE metrics.
 
-* Support Vector Machines (SVM)
+The following table present the variables and its definition.
 
-The estimation of the accuracy is based on the 10-fold cross validation method. 
 
-The project is based on the famous iris flowers dataset. The dataset contains 150 observations of iris flowers. There are four columns of measurements of the flowers in centimeters. This columns are the variables (features): SepalLength; SepalWidth; PetalLength; PetalWidth.
+
+
+
 
 petal_sepal             
 :-------------------------:
 ![](http://arqmain.net/iris/petal_sepal.png)
 
 The fifth column is the species of the flower observed. All observed flowers belong to one of three species: Iris-setosa; Iris-versicolor; Iris-virginica.
-
-iris_setosa             |  iris_versicolor	       |  iris_virginica
-:-------------------------:|:-------------------------:|:-------------------------:
-![](http://arqmain.net/iris/iris_setosa.png)  |  ![](http://arqmain.net/iris/iris_versicolor.png) |  ![](http://arqmain.net/iris/iris_virginica.png)
 
 <br>
 
