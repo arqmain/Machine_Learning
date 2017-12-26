@@ -22,13 +22,12 @@ The machine learning algoritms considered are:
 ![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/house-for-sale-sign-small.jpg)
 
 
-The following table present the variables and its definition.
+The project is based on the famous Boston Housing Prices dataset which is part of R. The dataset contains 14 predictors, and the response variable is medv. The following table present the variables and its definition.
 
 
 ![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/Boston_Housing_Variables.png)
 
 
-The project is based on the famous Boston Housing Prices dataset which is part of R. The dataset contains 14 predictors, and the response variable is medv. 
 <br>
 
 
