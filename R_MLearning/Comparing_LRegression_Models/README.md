@@ -30,8 +30,6 @@ The project is based on the famous Boston Housing Prices dataset which is part o
 
 <br>
 
-
-
 ### Table of Contents
 
 [ Introduction ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/INTRODUCTION_MLR-NN-GBM-XGBoost_COMPARE.html)
