@@ -28,7 +28,6 @@ The project is based on the famous Boston Housing Prices dataset which is part o
 ![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/Boston_Housing_Variables.png)
 
 
-<br>
 
 ### Table of Contents
 
