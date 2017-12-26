@@ -5,10 +5,9 @@
 
 This project presents an application of several supervised learning algorithms applied to the Multiple Linear Regression problem, evaluating and selecting the best of them according to Rsquared and RMSE metrics measurement and the caret R-project library.
 
+![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/house-for-sale-sign-small.jpg)
 
 The machine learning algoritms considered are:
-
-
 
 * Multiple Linear Regression (MLR)
 
@@ -18,15 +17,7 @@ The machine learning algoritms considered are:
 
 * Generalized Boosted Regression (GBM)
 
-
-![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/house-for-sale-sign-small.jpg)
-
-
-The project is based on the famous Boston Housing Prices dataset which is part of R. The dataset contains 14 predictors, and the response variable is medv. The following table present the variables and its definition.
-
-
-![](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/Boston_Housing_Variables.png)
-
+The project is based on the famous Boston Housing Prices dataset which is part of R. The dataset contains 14 predictors, and the response variable is "Median value of owner-occupied homes in US$ 1000's" (medv).
 
 
 ### Table of Contents
