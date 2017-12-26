@@ -22,20 +22,19 @@ The project is based on the famous Boston Housing Prices dataset which is part o
 
 ### Table of Contents    (  [  Link to MENU and R Codes ](http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/MENU_MLR-NN-GBM-XGBoost_COMPARE.html))
 
-[ Introduction ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/INTRODUCTION_MLR-NN-GBM-XGBoost_COMPARE.html)
+* Introduction
 
-[ Multiple Linear Regression (MLR) ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/MLR_MLR-NN-GBM-XGBoost_COMPARE.html)
+* Multiple Linear Regression (MLR)
 
-[ Neural Network (NN) ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/NN_MLR-NN-GBM-XGBoost_COMPARE.html)
+* Neural Network (NN)
 
-[ Extreme Gradient Boosting (XGBoost) ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/XGBoost_MLR-NN-GBM-XGBoost_COMPARE.html)
+* Extreme Gradient Boosting (XGBoost)
 
-[ Generalized Boosted Regression (GBM) ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/GBM_MLR-NN-GBM-XGBoost_COMPARE.html)
+* Generalized Boosted Regression (GBM)
 
-[ Models Comparison and Final Selection ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/Models-Comparison_MLR-NN-GBM-XGBoost_COMPARE.html)
+* Models Comparison and Final Selection
 
-[ Conclusion ]( http://www.arqmain.net/GITHUBE/RProject/MLearning/Project13/CONCLUSION_MLR-NN-GBM-XGBoost_COMPARE.html
-)
+* Conclusion
 
 <hr>
 
