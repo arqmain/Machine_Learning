@@ -11,7 +11,7 @@ The model obtained consider the PCA components of the database that explain 95% 
 
 ### Table of Contents  [  Link to Python codes notebook ]
 
-#### [Introduction](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic1/PYTHON-MLearning_LR1_Exploratory_FEngineering.ipynb)
+#### [Introduction](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic1/PYTHON-MLearning_LR1_Introduction.ipynb)
 
 #### [Exploring dataset and feature engineering](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic1/PYTHON-MLearning_LR1_Exploratory_FEngineering.ipynb)
 
