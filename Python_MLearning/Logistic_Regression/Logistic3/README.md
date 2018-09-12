@@ -8,7 +8,7 @@ The original datasets can be downloaded from here. Anyway, in the present projec
 
 <br>
 
-### Table of Contents   (  [  Link to R codes notebook ]( https://github.com/arqmain/Machine_Learning/blob/master/R_MLearning/PWine_RedWhite_NNetwork_RNEURALET_KFold/Project9_Portugal_WINE_TwoClass_RedWhite_NNetwork_NEURALNET.ipynb))
+### Table of Contents
 
 #### [Introduction](https://github.com/arqmain/Machine_Learning/edit/master/Python_MLearning/Logistic_Regression/Logistic3/README.md)
 
@@ -24,6 +24,6 @@ The original datasets can be downloaded from here. Anyway, in the present projec
 <hr>
 
 ><i>Hector Alvaro Rojas<br>
->Data Science, Data Analysis, Visualizations and Applied Statistics / November 09, 2017<br>
+>Data Science, Visualizations and Applied Statistics / September 10, 2017<br>
 >Email: <arqmain2010@gmail.com> <br>
 >Url: [http://www.arqmain.net]   /   GitHub: [https://github.com/arqmain]</i>
