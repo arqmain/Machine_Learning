@@ -10,15 +10,15 @@ The original datasets can be downloaded from here. Anyway, in the present projec
 
 ### Table of Contents
 
-#### [Introduction](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_Introduction.ipynb)
+#### [Introduction](http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_Introduction.ipynb)
 
-#### [Exploring dataset and feature engineering](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_Exploratory_FEngineering_Final.ipynb)
+#### [Exploring dataset and feature engineering](http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_Exploratory_FEngineering_Final.ipynb)
 
-#### [Classical Logistic Regression Modeling](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_Classical.ipynb)
+#### [Classical Logistic Regression Modeling](http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_Classical.ipynb)
 
-#### [Optimal Number of Features RFECV Modeling](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_OPTIMAL-RFECV_Final.ipynb)
+#### [Optimal Number of Features RFECV Modeling](http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_OPTIMAL-RFECV_Final.ipynb)
 
-#### [PCA Reduced Dimension Modeling](https://github.com/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_PCA.ipynb)
+#### [PCA Reduced Dimension Modeling](http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_PCA.ipynb)
 
 
 <hr>
