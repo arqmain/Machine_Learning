@@ -9,8 +9,8 @@ This work deals with an application of the Logistic Regression (LR) algorithm to
 
 
 The original datasets can be downloaded from here. Anyway, in the present project, I have combined both datasets ("train" and "test") into one named it "LoanFull.csv".
-
 <br>
+
 ### Table of Contents
 
 #### [Introduction](http://nbviewer.jupyter.org/github/arqmain/Machine_Learning/blob/master/Python_MLearning/Logistic_Regression/Logistic3/PYTHON-MLearning_LR3_Introduction.ipynb)
