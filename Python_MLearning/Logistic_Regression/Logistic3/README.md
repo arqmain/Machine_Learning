@@ -4,6 +4,8 @@
 
 This work deals with an application of the Logistic Regression (LR) algorithm to some Loan Data database, in order to obtain a model that allows to classify them as possible Loan receivers.
 
+![My Title](Visual/Introduction/Loan_LRegression3.png)
+
 The original datasets can be downloaded from here. Anyway, in the present project, I have combined both datasets ("train" and "test") into one named it "LoanFull.csv".
 
 <br>
