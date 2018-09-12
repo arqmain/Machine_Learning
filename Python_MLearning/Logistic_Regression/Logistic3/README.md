@@ -6,9 +6,6 @@ This work deals with an application of the Logistic Regression (LR) algorithm to
 
 
 ![My Title](Visual/Introduction/Loan_LRegression3.png)
-
-
-The original datasets can be downloaded from here. Anyway, in the present project, I have combined both datasets ("train" and "test") into one named it "LoanFull.csv".
 <br>
 
 ### Table of Contents
