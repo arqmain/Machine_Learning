@@ -3,7 +3,7 @@
 <br>
 
 This work deals with an application of the Logistic Regression (LR) algorithm to some Loan Data database, in order to obtain a model that allows to classify them as possible Loan receivers.
-
+<br>
 
 ![My Title](Visual/Introduction/Loan_LRegression3.png)
 <br>
